@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![image](images/disney.png)
 
-Thanks to CleverProgrammer for the inspiration and his tutorial.
+Thanks to @CleverProgrammer for the inspiration and his tutorial.
 
 # disney-plus-clone
